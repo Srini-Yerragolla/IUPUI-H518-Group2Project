@@ -1,4 +1,4 @@
-# -IUPUI-H518-GroupProject
+# IUPUI-H518-Group2 Deep Learning Project
 INFO-H518 Deep Learning, Group 2 Project  Fall 2020 SOIC
 Problem statement
 INFO-H518-Deep Learning group project Bird-species Recognition Using Convolutional Neural Network (CNN)
