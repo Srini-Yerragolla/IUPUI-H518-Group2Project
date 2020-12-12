@@ -52,7 +52,7 @@ Efficient Nets, as the name suggests are much efficient computationally and also
 Result	
 EfficientNetB7 model was trained on 50 epochs on Adam optimizer with the learning rate of 0.01 has training accuracy 73% and validation accuracy 61%. Figure 9 shows the model training and validation accuracy.
 
-Conclusions
+Conclusions:
 We applied the Convolution neural network (CNN), VGG16, ResNet50, and EfficieNetB7 models successfully. The VGG16 and ResNet50 models gave us a very good accuracy rate. We learned that a vast number of image processing through convolution neural networks takes a lot of time to process and it needs a resource-intensive operation. We noticed that CPU runtime took a long time and stopped several times. As a result, we switched to the GPU runtime. The number of epochs plays a significant role to improve the accuracy of the model. We also tried other models such as DenseNet, but the dataset did not fit the model.
 
 Contributions 
